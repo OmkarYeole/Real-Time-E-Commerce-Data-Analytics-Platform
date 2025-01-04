@@ -4,7 +4,7 @@ A modern data engineering solution leveraging Snowflake and Azure to transform b
 
 ## 🎯 Project Overview
 
-Built a scalable data platform that reduced data processing time from 24 hours to less than 1 hour, enabling real-time decision making for an e-commerce giant operating across 15 countries with 5M+ active customers.
+Built a scalable data platform that reduced data processing time from 24 hours to less than 1 hour, enabling real-time decision making.
 
 ## 🚀 Key Achievements
 
